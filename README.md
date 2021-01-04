@@ -1,1 +1,1 @@
-# /Users/tomzhang/Downloads/Github-contribution-graph
+# Github-contribution-graph
